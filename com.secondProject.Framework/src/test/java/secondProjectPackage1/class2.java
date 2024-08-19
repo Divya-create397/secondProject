@@ -6,6 +6,7 @@ public class class2
 	{
 		System.out.println("New class is added by Divya2");
 		System.out.println("New class is added by Divya2 is modified by global Repo");
+		System.out.println("Element2 is added by Divya2");
 
 	}
 
